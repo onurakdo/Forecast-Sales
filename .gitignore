@@ -1,0 +1,7 @@
+raw_data/*.zip
+raw_data/*.csv
+.DS_Store
+.idea/
+feature_data/*.csv
+tempenv
+.env
